@@ -1,0 +1,14 @@
+.bg-custom {
+	background-image: linear-gradient(to bottom, #00F260 , #0575E6);
+	height: 100vh;
+}
+.logo{
+	width: auto;
+	max-width: 500px;
+}
+.icons-start{
+	font-size: 96px;
+}
+.logo-menu {
+	height: 40px;
+}
